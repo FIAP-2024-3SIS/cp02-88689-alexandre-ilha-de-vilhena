@@ -1,3 +1,14 @@
+Print da aplicação:
+https://github.com/FIAP-2024-3SIS/cp02-88689-alexandre-ilha-de-vilhena/blob/main/Checkpoint%20-%20print%20site%20funcionando.png
+
+
+Intruções para rodar a aplicação:
+Para rodar a aplicação faça um clone do projeto e na pasta do projeto rode o codigo ng serve -o clique no link gerado indicando a porta em que ocorreu o load da aplicação.
+
+
+
+
+
 # MyApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.5.
